@@ -17,6 +17,7 @@ nav{
   display: flex;
   height: 10vh;
   justify-content: center;
+	background-color: gray;
 }
 
 nav a{
@@ -75,3 +76,17 @@ button:hover{
   box-shadow: 5px 5px 10px rgb(56, 212, 152);
   background-color: rgb(28, 151, 65);
 }
+
+.image {
+	display: flex;
+}
+
+
+image img {
+	width: 40vh;
+}
+
+main {
+	display: flex;
+}
+
